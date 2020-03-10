@@ -16,7 +16,10 @@ img.rechts {
 
 body {
     font-family: 'Verdana', 'Arial', 'serif';
-    margin-left: 20%;
+    background-image: url('../img/BoB.png'); 
+    /* Tekst 60% */
+    margin-left: 20%; 
     margin-right: 20%;
-    background-image: url('../img/BoB.png');
+/*--------------------*/
 }
+
